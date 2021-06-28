@@ -1,6 +1,6 @@
 import React from "react";
 
-import profilePic from "../../../assets/images/profile.jpg";
+import profilePic from "../../../assets/images/lexprofile.jpg";
 
 import "../../_common/common.css";
 import "./about.css";
@@ -24,7 +24,7 @@ const About = () => {
       />
       <div className="about-text">
         <span className="about-text-main">
-          I'm <span className="about-name">Lex the WebGorilla</span>
+          I'm <span className="about-name">Lex Tha' WebGorilla</span>
         </span>
         <br />
         <span className="about-text-subtitle">
