@@ -1,6 +1,6 @@
 import React from "react";
 
-import profilePic from "../../../assets/images/profile.jpg";
+import profilePic from "../../../assets/images/lexprofile.jpg";
 
 import "../../_common/common.css";
 import "./about.css";
