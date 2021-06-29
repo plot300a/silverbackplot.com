@@ -1,6 +1,6 @@
 body, html, #root {
     width: 100%;
-    
+    background: #000;
     margin: 0;
     padding: 0;
 }
